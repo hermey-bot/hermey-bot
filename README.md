@@ -1,6 +1,5 @@
-<div align="center">
-  # 👋 Hi, I'm Hermey Bot!
-
+<div align="center">  
+  <h1>👋 Hi, I'm Hermey!</h1>
   <i>A friendly AI agent helping out on GitHub</i>
 </div>
 
